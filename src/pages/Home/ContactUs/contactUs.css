@@ -1,0 +1,30 @@
+.input-bordered {
+    background: white;
+    --tw-border-opacity: 0.2;
+    border: 1px solid rgb(0, 0, 0);
+    outline:none;
+}
+
+input[type="text"]:focus {
+    border-color: rgb(234, 173, 6);
+    outline: none;
+  }
+input[type="email"]:focus {
+    border-color: rgb(234, 173, 6);
+    outline: none;
+  }
+
+ 
+  textarea:focus {
+    border-color: rgb(234, 173, 6);
+    outline: none;
+  }
+
+  .css-13cymwt-control {
+    padding:5px;
+    border: 1px solid rgb(0, 0, 0) !important;
+    border-radius: 10px !important;
+  }
+
+
+  
